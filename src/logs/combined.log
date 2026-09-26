@@ -10,3 +10,263 @@
 2026-08-01 15:02:26 [info]: Filling login credentials...
 2026-08-01 15:02:26 [info]: Submitting login form...
 2026-08-01 15:02:26 [info]: ✅ UI Login successful. Storage state saved to storageState.json
+2026-08-23 15:20:09 [info]: 🚀 Global Setup started (UI-based authentication)...
+2026-08-23 15:20:15 [info]: Filling login credentials...
+2026-08-23 15:20:15 [info]: Submitting login form...
+2026-08-23 15:20:15 [info]: ✅ UI Login successful. Storage state saved to storageState.json
+2026-08-23 15:22:00 [info]: 🚀 Global Setup started (UI-based authentication)...
+2026-08-23 15:22:03 [info]: Filling login credentials...
+2026-08-23 15:22:03 [info]: Submitting login form...
+2026-08-23 15:22:03 [info]: ✅ UI Login successful. Storage state saved to storageState.json
+2026-08-23 15:23:11 [info]: 🚀 Global Setup started (UI-based authentication)...
+2026-08-23 15:23:14 [info]: Filling login credentials...
+2026-08-23 15:23:14 [info]: Submitting login form...
+2026-08-23 15:23:14 [info]: ✅ UI Login successful. Storage state saved to storageState.json
+2026-08-23 15:25:04 [info]: 🚀 Global Setup started (UI-based authentication)...
+2026-08-23 15:25:07 [info]: Filling login credentials...
+2026-08-23 15:25:07 [info]: Submitting login form...
+2026-08-23 15:25:07 [info]: ✅ UI Login successful. Storage state saved to storageState.json
+2026-08-23 15:25:57 [info]: 🚀 Global Setup started (UI-based authentication)...
+2026-08-23 15:25:59 [info]: Filling login credentials...
+2026-08-23 15:25:59 [info]: Submitting login form...
+2026-08-23 15:26:00 [info]: ✅ UI Login successful. Storage state saved to storageState.json
+2026-08-23 15:26:10 [info]: 🚀 Global Setup started (UI-based authentication)...
+2026-08-23 15:26:13 [info]: Filling login credentials...
+2026-08-23 15:26:13 [info]: Submitting login form...
+2026-08-23 15:26:13 [info]: ✅ UI Login successful. Storage state saved to storageState.json
+2026-08-23 15:26:58 [info]: Navigating to /
+2026-08-23 15:26:59 [info]: Filling Username with undefined
+2026-08-23 15:31:08 [info]: Navigating to /
+2026-08-23 15:31:09 [info]: Filling Username with standard_user
+2026-08-23 15:31:09 [info]: Filling Password with secret_sauce
+2026-08-23 15:31:09 [info]: Clicking Login Button
+2026-08-23 15:33:52 [info]: Navigating to /
+2026-08-23 15:33:52 [info]: Filling Username with standard_user
+2026-08-23 15:33:52 [info]: Filling Password with secret_sauce
+2026-08-23 15:33:52 [info]: Clicking Login Button
+2026-08-23 15:35:31 [info]: 🚀 Global Setup started (UI-based authentication)...
+2026-08-23 15:35:37 [info]: Filling login credentials...
+2026-08-23 15:35:37 [info]: Submitting login form...
+2026-08-23 15:35:37 [info]: ✅ UI Login successful. Storage state saved to storageState.json
+2026-08-23 15:35:40 [info]: Navigating to /
+2026-08-23 15:35:41 [info]: Navigating to /
+2026-08-23 15:35:41 [info]: Navigating to /
+2026-08-23 15:35:41 [info]: Filling Username with standard_user
+2026-08-23 15:35:41 [info]: Filling Password with secret_sauce
+2026-08-23 15:35:41 [info]: Filling Username with standard_user
+2026-08-23 15:35:41 [info]: Clicking Login Button
+2026-08-23 15:35:41 [info]: Filling Username with standard_user
+2026-08-23 15:35:42 [info]: Filling Password with secret_sauce
+2026-08-23 15:35:42 [info]: Clicking Login Button
+2026-08-23 15:35:42 [info]: Filling Password with secret_sauce
+2026-08-23 15:35:42 [info]: Clicking Login Button
+2026-08-23 16:04:27 [info]: 🚀 Global Setup started (UI-based authentication)...
+2026-08-23 16:04:30 [info]: Filling login credentials...
+2026-08-23 16:04:30 [info]: Submitting login form...
+2026-08-23 16:04:30 [info]: ✅ UI Login successful. Storage state saved to storageState.json
+2026-08-23 16:05:26 [info]: Navigating to /
+2026-08-23 16:05:26 [info]: Filling Username with standard_user
+2026-08-23 16:05:27 [info]: Filling Password with secret_sauce
+2026-08-23 16:05:27 [info]: Clicking Login Button
+2026-08-23 16:05:27 [info]: Waiting for URL: **/inventory.html
+2026-08-23 16:05:27 [info]: Clicking Add Sauce Labs Backpack
+2026-08-23 16:08:01 [info]: 🚀 Global Setup started (UI-based authentication)...
+2026-08-23 16:08:04 [info]: Filling login credentials...
+2026-08-23 16:08:04 [info]: Submitting login form...
+2026-08-23 16:08:04 [info]: ✅ UI Login successful. Storage state saved to storageState.json
+2026-08-23 16:08:07 [info]: Navigating to /
+2026-08-23 16:08:07 [info]: Navigating to /
+2026-08-23 16:08:07 [info]: Navigating to /
+2026-08-23 16:08:07 [info]: Filling Username with standard_user
+2026-08-23 16:08:07 [info]: Filling Username with standard_user
+2026-08-23 16:08:08 [info]: Filling Username with standard_user
+2026-08-23 16:08:08 [info]: Filling Password with secret_sauce
+2026-08-23 16:08:08 [info]: Filling Password with secret_sauce
+2026-08-23 16:08:08 [info]: Clicking Login Button
+2026-08-23 16:08:08 [info]: Filling Password with secret_sauce
+2026-08-23 16:08:08 [info]: Clicking Login Button
+2026-08-23 16:08:08 [info]: Clicking Login Button
+2026-08-23 16:08:08 [info]: Waiting for URL: **/inventory.html
+2026-08-23 16:08:08 [info]: Clicking Add Sauce Labs Backpack
+2026-08-23 16:08:08 [info]: Waiting for URL: **/inventory.html
+2026-08-23 16:08:08 [info]: Clicking Add Sauce Labs Backpack
+2026-08-23 16:08:08 [info]: Waiting for URL: **/inventory.html
+2026-08-23 16:08:08 [info]: Clicking Add Sauce Labs Backpack
+2026-08-23 16:11:18 [info]: Navigating to /
+2026-08-23 16:11:18 [info]: Navigating to /
+2026-08-23 16:11:18 [info]: Navigating to /
+2026-08-23 16:11:19 [info]: Filling Username with standard_user
+2026-08-23 16:11:19 [info]: Filling Password with secret_sauce
+2026-08-23 16:11:19 [info]: Clicking Login Button
+2026-08-23 16:11:19 [info]: Filling Username with standard_user
+2026-08-23 16:11:19 [info]: Filling Username with standard_user
+2026-08-23 16:11:19 [info]: Filling Password with secret_sauce
+2026-08-23 16:11:19 [info]: Clicking Login Button
+2026-08-23 16:11:19 [info]: Filling Password with secret_sauce
+2026-08-23 16:11:19 [info]: Waiting for URL: **/inventory.html
+2026-08-23 16:11:19 [info]: Clicking Add Sauce Labs Backpack
+2026-08-23 16:11:19 [info]: Clicking Login Button
+2026-08-23 16:11:20 [info]: Waiting for URL: **/inventory.html
+2026-08-23 16:11:20 [info]: Clicking Add Sauce Labs Backpack
+2026-08-23 16:11:20 [info]: Waiting for URL: **/inventory.html
+2026-08-23 16:11:20 [info]: Clicking Add Sauce Labs Backpack
+2026-09-05 14:41:53 [info]: Navigating to /
+2026-09-05 14:41:54 [info]: Filling Username with standard_user
+2026-09-05 14:41:54 [info]: Filling Password with secret_sauce
+2026-09-05 14:41:54 [info]: Clicking Login Button
+2026-09-05 14:41:54 [info]: Waiting for URL: **/inventory.html
+2026-09-05 14:43:30 [info]: Navigating to /
+2026-09-05 14:43:31 [info]: Filling Username with standard_user
+2026-09-05 14:43:31 [info]: Filling Password with secret_sauce
+2026-09-05 14:43:31 [info]: Clicking Login Button
+2026-09-05 14:43:31 [info]: Waiting for URL: **/inventory.html
+2026-09-05 14:48:54 [info]: Navigating to /
+2026-09-05 14:48:54 [info]: Navigating to /
+2026-09-05 14:48:54 [info]: Navigating to /
+2026-09-05 14:48:54 [info]: Navigating to /
+2026-09-05 14:48:54 [info]: Navigating to /
+2026-09-05 14:48:55 [info]: Filling Username with invalid_user
+2026-09-05 14:48:55 [info]: Filling Password with wrong_password
+2026-09-05 14:48:55 [info]: Clicking Login Button
+2026-09-05 14:48:55 [info]: Filling Username with standard_user
+2026-09-05 14:48:55 [info]: Filling Username with locked_out_user
+2026-09-05 14:48:55 [info]: Filling Password with secret_sauce
+2026-09-05 14:48:55 [info]: Clicking Login Button
+2026-09-05 14:48:55 [info]: Filling Password with secret_sauce
+2026-09-05 14:48:55 [info]: Clicking Login Button
+2026-09-05 14:48:56 [info]: Navigating to /
+2026-09-05 14:48:56 [info]: Navigating to /
+2026-09-05 14:48:57 [info]: Filling Username with standard_user
+2026-09-05 14:48:57 [info]: Filling Username with standard_user
+2026-09-05 14:48:57 [info]: Filling Password with secret_sauce
+2026-09-05 14:48:57 [info]: Filling Password with secret_sauce
+2026-09-05 14:48:57 [info]: Clicking Login Button
+2026-09-05 14:48:57 [info]: Clicking Login Button
+2026-09-05 14:48:57 [info]: Waiting for URL: **/inventory.html
+2026-09-05 14:48:57 [info]: Waiting for URL: **/inventory.html
+2026-09-05 14:48:59 [info]: Navigating to /
+2026-09-05 14:48:59 [info]: Filling Username with standard_user
+2026-09-05 14:49:00 [info]: Navigating to /
+2026-09-05 14:49:00 [info]: Navigating to /
+2026-09-05 14:49:00 [info]: Filling Password with secret_sauce
+2026-09-05 14:49:00 [info]: Clicking Login Button
+2026-09-05 14:49:00 [info]: Filling Username with invalid_user
+2026-09-05 14:49:01 [info]: Navigating to /
+2026-09-05 14:49:01 [info]: Filling Password with wrong_password
+2026-09-05 14:49:01 [info]: Clicking Login Button
+2026-09-05 14:49:01 [info]: Filling Username with locked_out_user
+2026-09-05 14:49:01 [info]: Navigating to /
+2026-09-05 14:49:01 [info]: Filling Password with secret_sauce
+2026-09-05 14:49:01 [info]: Clicking Login Button
+2026-09-05 14:49:04 [info]: Navigating to /
+2026-09-05 14:49:04 [info]: Navigating to /
+2026-09-05 14:49:04 [info]: Filling Username with standard_user
+2026-09-05 14:49:04 [info]: Filling Password with secret_sauce
+2026-09-05 14:49:04 [info]: Filling Username with standard_user
+2026-09-05 14:49:04 [info]: Clicking Login Button
+2026-09-05 14:49:05 [info]: Filling Password with secret_sauce
+2026-09-05 14:49:05 [info]: Clicking Login Button
+2026-09-05 14:49:05 [info]: Waiting for URL: **/inventory.html
+2026-09-05 14:49:05 [info]: Navigating to /
+2026-09-05 14:49:05 [info]: Navigating to /
+2026-09-05 14:49:06 [info]: Navigating to /
+2026-09-05 14:49:06 [info]: Filling Username with locked_out_user
+2026-09-05 14:49:06 [info]: Filling Username with invalid_user
+2026-09-05 14:49:06 [info]: Filling Password with secret_sauce
+2026-09-05 14:49:06 [info]: Clicking Login Button
+2026-09-05 14:49:06 [info]: Filling Password with wrong_password
+2026-09-05 14:49:07 [info]: Clicking Login Button
+2026-09-05 14:49:07 [info]: Navigating to /
+2026-09-05 14:53:31 [info]: Navigating to /
+2026-09-05 14:53:31 [info]: Navigating to /
+2026-09-05 14:53:31 [info]: Navigating to /
+2026-09-05 14:53:31 [info]: Filling Username with standard_user
+2026-09-05 14:53:31 [info]: Filling Username with standard_user
+2026-09-05 14:53:31 [info]: Filling Username with standard_user
+2026-09-05 14:53:31 [info]: Filling Password with secret_sauce
+2026-09-05 14:53:31 [info]: Filling Password with secret_sauce
+2026-09-05 14:53:31 [info]: Filling Password with secret_sauce
+2026-09-05 14:53:31 [info]: Clicking Login Button
+2026-09-05 14:53:31 [info]: Clicking Login Button
+2026-09-05 14:53:31 [info]: Clicking Login Button
+2026-09-05 14:53:32 [info]: Waiting for URL: **/inventory.html
+2026-09-05 14:53:32 [info]: Waiting for URL: **/inventory.html
+2026-09-05 14:53:32 [info]: Waiting for URL: **/inventory.html
+2026-09-05 14:55:46 [info]: Navigating to /
+2026-09-05 14:55:47 [info]: Filling Username with standard_user
+2026-09-05 14:55:47 [info]: Filling Password with secret_sauce
+2026-09-05 14:55:47 [info]: Clicking Login Button
+2026-09-05 14:55:47 [info]: Waiting for URL: **/inventory.html
+2026-09-05 14:56:33 [info]: Navigating to /
+2026-09-05 14:57:02 [info]: Filling Username with standard_user
+2026-09-05 14:57:10 [info]: Filling Password with secret_sauce
+2026-09-05 14:57:13 [info]: Clicking Login Button
+2026-09-05 14:57:17 [info]: Waiting for URL: **/inventory.html
+2026-09-05 15:02:52 [info]: Navigating to /
+2026-09-05 15:02:53 [info]: Filling Username with standard_user
+2026-09-05 15:02:53 [info]: Filling Password with secret_sauce
+2026-09-05 15:02:53 [info]: Clicking Login Button
+2026-09-05 15:02:53 [info]: Waiting for URL: **/inventory.html
+2026-09-05 15:06:57 [info]: Navigating to /
+2026-09-05 15:06:58 [info]: Filling Username with standard_user
+2026-09-05 15:06:58 [info]: Filling Password with secret_sauce
+2026-09-05 15:06:58 [info]: Clicking Login Button
+2026-09-05 15:06:58 [info]: Waiting for URL: **/inventory.html
+2026-09-05 15:13:07 [info]: Navigating to /
+2026-09-05 15:13:07 [info]: Filling Username with standard_user
+2026-09-05 15:13:08 [info]: Filling Password with secret_sauce
+2026-09-05 15:13:08 [info]: Clicking Login Button
+2026-09-05 15:13:08 [info]: Waiting for URL: **/inventory.html
+2026-09-05 15:18:44 [info]: Navigating to /
+2026-09-05 15:18:45 [info]: Filling Username with standard_user
+2026-09-05 15:18:45 [info]: Filling Password with secret_sauce
+2026-09-05 15:18:45 [info]: Clicking Login Button
+2026-09-05 15:18:45 [info]: Waiting for URL: **/inventory.html
+2026-09-12 20:00:34 [info]: Navigating to /
+2026-09-12 20:00:34 [info]: Navigating to /
+2026-09-12 20:00:34 [info]: Navigating to /
+2026-09-12 20:00:35 [info]: Filling Username with invalid_user
+2026-09-12 20:00:35 [info]: Filling Username with locked_out_user
+2026-09-12 20:00:35 [info]: Filling Username with standard_user
+2026-09-12 20:00:35 [info]: Filling Password with wrong_password
+2026-09-12 20:00:35 [info]: Clicking Login Button
+2026-09-12 20:00:35 [info]: Filling Password with secret_sauce
+2026-09-12 20:00:35 [info]: Filling Password with secret_sauce
+2026-09-12 20:00:35 [info]: Clicking Login Button
+2026-09-12 20:00:35 [info]: Clicking Login Button
+2026-09-12 20:01:04 [info]: Navigating to /
+2026-09-12 20:01:04 [info]: Navigating to /
+2026-09-12 20:01:04 [info]: Navigating to /
+2026-09-12 20:01:05 [info]: Filling Username with locked_out_user
+2026-09-12 20:01:05 [info]: Filling Username with standard_user
+2026-09-12 20:01:05 [info]: Filling Password with secret_sauce
+2026-09-12 20:01:05 [info]: Filling Username with invalid_user
+2026-09-12 20:01:05 [info]: Filling Password with secret_sauce
+2026-09-12 20:01:05 [info]: Clicking Login Button
+2026-09-12 20:01:05 [info]: Clicking Login Button
+2026-09-12 20:01:05 [info]: Filling Password with wrong_password
+2026-09-12 20:01:05 [info]: Clicking Login Button
+2026-09-26 14:00:15 [info]: Navigating to /
+2026-09-26 14:00:16 [info]: Navigating to /
+2026-09-26 14:00:16 [info]: Filling Username with invalid_user
+2026-09-26 14:00:16 [info]: Filling Username with invalid_user
+2026-09-26 14:00:17 [info]: Filling Password with wrong_password
+2026-09-26 14:00:17 [info]: Filling Password with wrong_password
+2026-09-26 14:00:17 [info]: Clicking Login Button
+2026-09-26 14:00:17 [info]: Clicking Login Button
+2026-09-26 14:04:11 [info]: Navigating to /
+2026-09-26 14:04:11 [info]: Navigating to /
+2026-09-26 14:04:12 [info]: Filling Username with invalid_user
+2026-09-26 14:04:12 [info]: Filling Password with wrong_password
+2026-09-26 14:04:12 [info]: Clicking Login Button
+2026-09-26 14:04:12 [info]: Filling Username with invalid_user
+2026-09-26 14:04:12 [info]: Filling Password with wrong_password
+2026-09-26 14:04:12 [info]: Clicking Login Button
+2026-09-26 14:05:54 [info]: Navigating to /
+2026-09-26 14:05:54 [info]: Navigating to /
+2026-09-26 14:05:54 [info]: Filling Username with invalid_user
+2026-09-26 14:05:55 [info]: Filling Username with invalid_user
+2026-09-26 14:05:55 [info]: Filling Password with wrong_password
+2026-09-26 14:05:55 [info]: Filling Password with wrong_password
+2026-09-26 14:05:55 [info]: Clicking Login Button
+2026-09-26 14:05:55 [info]: Clicking Login Button

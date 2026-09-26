@@ -8,7 +8,7 @@ async function globalSetup() {
 
   // 1. Launch a single browser instance (headless for CI)
   const browser = await chromium.launch({ 
-    // headless: true,  // Set to false locally for debugging
+    headless: false,  // Set to false locally for debugging
   });
   
   // 2. Create a new context (isolated session)
