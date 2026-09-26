@@ -1,0 +1,6 @@
+{
+    "testCredential1": {
+        "username": "standard_user",
+        "password": "secret_sauce"
+    }
+}
