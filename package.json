@@ -7,7 +7,7 @@
   "test": "npx playwright test",
   "test:ui": "npx playwright test --ui",
   "test:allure-generate-report": "npx playwright test --config=playwright.config.ts --reporter=allure-playwright & npm run allure:generate & npm run allure:open",
-  "test:negative": "npx playwright test --config=playwright.config.ts --grep @negative --reporter=allure-playwright & npm run allure:generate & npm run allure:open",
+  "test:negative": "npm install & npx playwright test --config=playwright.config.ts --grep @negative --reporter=allure-playwright & npm run allure:generate & npm run allure:open",
   "test:regression": "npx playwright test --config=playwright.config.ts --grep @regression --reporter=allure-playwright & npm run allure:generate & npm run allure:open",
   "test:smoke": "npx playwright test --config=playwright.config.ts --grep @smoke --reporter=allure-playwright & npm run allure:generate & npm run allure:open",
   "test:sanity": "npx playwright test --config=playwright.config.ts --grep @sanity --reporter=allure-playwright & npm run allure:generate & npm run allure:open",
