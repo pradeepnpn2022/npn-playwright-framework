@@ -16,10 +16,22 @@ pipeline {
         script {
           if (isUnix()) {
             sh 'npm ci'
-            sh 'npx playwright install chromium'
+            sh 'npx playwright install'
           } else {
             bat 'npm ci'
-            bat 'npx playwright install chromium'
+            bat 'npx playwright install'
+          }
+        }
+      }
+    }
+
+    stage('List all the tests') {
+      steps {
+        script {
+          if (isUnix()) {
+            sh 'npx playwright test --list'
+          } else {
+            bat 'npx playwright test --list'
           }
         }
       }
