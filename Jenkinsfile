@@ -1,5 +1,5 @@
 pipeline {
-  agent { label 'playwright' }
+  agent any
 
   environment {
     CI = 'true'
@@ -13,14 +13,27 @@ pipeline {
   stages {
     stage('Install dependencies') {
       steps {
-        sh 'npm ci'
-        sh 'npx playwright install chromium'
+        script {
+          if (isUnix()) {
+            sh 'npm ci'
+            sh 'npx playwright install chromium'
+          } else {
+            bat 'npm ci'
+            bat 'npx playwright install chromium'
+          }
+        }
       }
     }
 
     stage('Run tests') {
       steps {
-        sh 'npm test'
+        script {
+          if (isUnix()) {
+            sh 'npm test'
+          } else {
+            bat 'npm test'
+          }
+        }
       }
     }
   }
