@@ -16,6 +16,19 @@ pipeline {
         script {
           if (isUnix()) {
             sh 'npm ci'
+            sh 'npm install'
+          } else {
+            bat 'npm ci'
+            bat 'npm install'
+          }
+        }
+      }
+    }
+    stage('Install dependencies') {
+      steps {
+        script {
+          if (isUnix()) {
+            sh 'npm ci'
             sh 'npx playwright install'
           } else {
             bat 'npm ci'
@@ -29,9 +42,9 @@ pipeline {
       steps {
         script {
           if (isUnix()) {
-            sh 'npx playwright test --list & npm install -g allure'
+            sh 'npx playwright test --list'
           } else {
-            bat 'npx playwright test --list & npm install -g allure'
+            bat 'npx playwright test --list'
           }
         }
       }
@@ -53,7 +66,20 @@ pipeline {
   post {
     always {
       archiveArtifacts artifacts: 'playwright-report/**, allure-results/**, test-results.json, test-results/**', allowEmptyArchive: true
-      allure commandline: 'Allure 3', includeProperties: false, jdk: '', resultPolicy: 'LEAVE_AS_IS', results: [[path: 'allure-results']]
+      // Publish Playwright HTML report
+        publishHTML([
+                allowMissing: false,
+                alwaysLinkToLastBuild: true,
+                keepAll: true,
+                reportDir: 'playwright-report',
+                reportFiles: 'index.html',
+                reportName: 'Playwright HTML Report',
+                useWrapperFileDirectly: true
+            ])
+      // Generate the Allure Report targeting the results directory
+            allure includeProperties: false, 
+                   jdk: '', 
+                   results: [[path: 'allure-results']]
     }
   }
 }
