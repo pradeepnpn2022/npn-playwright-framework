@@ -49,7 +49,7 @@ export default defineConfig({
     screenshot: 'only-on-failure',
     video: 'on',
     browserName: 'chromium',
-    headless: false,
+    headless: !!process.env.CI,
     
   },
 
