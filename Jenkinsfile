@@ -11,7 +11,12 @@ pipeline {
   }
 
   stages {
-    stage('Install dependencies') {
+    stage('Clean workspace') {
+      steps {
+        cleanWs()
+      }
+    }
+    stage('Install npm dependencies') {
       steps {
         script {
           if (isUnix()) {
@@ -24,7 +29,7 @@ pipeline {
         }
       }
     }
-    stage('Install dependencies') {
+    stage('Install Playwright dependencies') {
       steps {
         script {
           if (isUnix()) {
