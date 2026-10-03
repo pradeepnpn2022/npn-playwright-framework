@@ -29,9 +29,9 @@ pipeline {
       steps {
         script {
           if (isUnix()) {
-            sh 'npx playwright test --list'
+            sh 'npx playwright test --list & npm install -g allure'
           } else {
-            bat 'npx playwright test --list'
+            bat 'npx playwright test --list & npm install -g allure'
           }
         }
       }
