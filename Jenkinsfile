@@ -53,6 +53,7 @@ pipeline {
   post {
     always {
       archiveArtifacts artifacts: 'playwright-report/**, allure-results/**, test-results.json, test-results/**', allowEmptyArchive: true
+      allure commandline: 'Allure 3', includeProperties: false, jdk: '', resultPolicy: 'LEAVE_AS_IS', results: [[path: 'allure-results']]
     }
   }
 }
